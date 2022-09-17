@@ -1,0 +1,64 @@
+
+ 
+ h1{
+    font-weight: 700;
+    width: 540px;
+    height: 192px;
+font-size: 64px;
+line-height: 96px;
+text-transform: uppercase;
+margin-left: auto;
+margin-right: auto;
+margin-top: 320px;
+z-index: 1;
+color: #212121;
+}
+
+.header__btn{
+    background: linear-gradient(90deg, #73E0A9 0%, #5B68DF 100%);
+border-radius: 100px;
+width: 249px;
+height: 60px;
+left: 20px;
+border: none;
+}
+.button{
+    display: flex;
+    justify-content: center;
+}
+.header__btn span{
+    font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 33px;
+text-align: center;
+color: #FFFFFF;
+}
+.header__img{
+    position: absolute;
+    left: 35rem;
+top: 12rem;
+overflow-x: hidden;
+
+}
+.header__img2{
+    position: absolute;
+    left: 1200px;
+    z-index: 1;
+    top: 220px;
+    overflow: hidden;
+    
+}
+
+
+.header__img3{
+    position: absolute;
+    top:28rem; 
+    right: 7rem;
+}
+
+.header__img5{
+    position: absolute;
+    left: -5px;
+    top:500px
+}
