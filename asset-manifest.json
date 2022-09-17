@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Cold-banana_assesment/static/css/main.3045a0fe.css",
+    "main.js": "/Cold-banana_assesment/static/js/main.361c2aa9.js",
+    "static/media/png1.png": "/Cold-banana_assesment/static/media/png1.6d59478f1364227f9114.png",
+    "static/media/vector6.png": "/Cold-banana_assesment/static/media/vector6.557aa74af2f67f03acae.png",
+    "static/media/vector7.png": "/Cold-banana_assesment/static/media/vector7.49be2e8357040deceb2d.png",
+    "static/media/vector3.png": "/Cold-banana_assesment/static/media/vector3.37f189edf688cfb61f58.png",
+    "static/media/Vector.png": "/Cold-banana_assesment/static/media/Vector.36473167fa19e59996c7.png",
+    "static/media/vector2.png": "/Cold-banana_assesment/static/media/vector2.ec15bbac41f9c5fe9043.png",
+    "static/media/vector5.png": "/Cold-banana_assesment/static/media/vector5.9b2d693602976aecafd4.png",
+    "index.html": "/Cold-banana_assesment/index.html",
+    "main.3045a0fe.css.map": "/Cold-banana_assesment/static/css/main.3045a0fe.css.map",
+    "main.361c2aa9.js.map": "/Cold-banana_assesment/static/js/main.361c2aa9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3045a0fe.css",
+    "static/js/main.361c2aa9.js"
+  ]
+}
